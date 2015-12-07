@@ -1,7 +1,6 @@
 var https = require('https');
 var url = require('url');
 var fs = require('fs');
-var AWS = require('aws-sdk');
 
 var pathstart = '';
 
